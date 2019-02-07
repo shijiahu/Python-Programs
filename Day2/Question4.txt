@@ -1,0 +1,1 @@
+4.	Write a script that will recursively browse through a directory and list all the files which has the word ‘HCL’ in it. Use regular expression and make this case insensitive

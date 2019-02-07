@@ -1,0 +1,1 @@
+2.	Create a parent class where it will ask the user input, Validate this and then pass to calculator class, (Basically calculator class will inherit this parent class for getting input numbers and to check if they are valid numbers)
