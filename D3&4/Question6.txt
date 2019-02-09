@@ -1,0 +1,1 @@
+6.	Write a program that validates if the given email is valid

@@ -1,0 +1,1 @@
+8.	Increment the given ip address by x number,  say if the input is 192.168.3.225 and increment number is 100 then the output has to be 192.168.4.70
